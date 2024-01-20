@@ -3,9 +3,9 @@
     "name": "parham mohammadi",
     "label": "student",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "",
+    "phone": "",
+    "url": "",
     "summary": "student in iust",
     "location": {
       "address": "Tehran",
@@ -24,12 +24,12 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Iran University of science and technology",
+      "position": "student of computer engineering",
+      "url": "https://www.iust.ac.ir/",
+      "startDate": "2023",
+      "endDate": "-",
+      "summary": "Home work",
       "highlights": ["Relativity"]
     }
   ],
