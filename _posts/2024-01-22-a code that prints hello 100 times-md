@@ -1,0 +1,11 @@
+this code in bellow prints Hello for 100 times :
+```c
+#include <stdio.h>
+
+int main(){
+	int counter = 0;
+	while (counter < 100){
+		printf("Hello");
+	}
+}
+```
