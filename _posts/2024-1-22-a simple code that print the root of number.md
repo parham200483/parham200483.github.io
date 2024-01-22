@@ -8,6 +8,7 @@ int main(){
   scanf("%d", &number);
   printf("%f",pow(number, 0.5));
   return 0;
+}
 ```  
 here is a test and answer :
 ```c
