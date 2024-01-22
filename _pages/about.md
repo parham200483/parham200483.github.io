@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Iran</p>
+    <p>Tehran</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
@@ -19,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-من پرهام محمدی هستم. دانشجوی کامپیوتر دانشگاه علم و صنعت.در تایم آزاد علاقه مند به سریال و ویدیو گیم هستم.این وب سایت مربوط به تکلیف کارگاه کامپیوتر ترم 14021 هست.
+من پرهام محمدی هستم. دانشجوی کامپیوتر دانشگاه علم و صنعت.در تایم آزاد علاقه مند به سریال و ویدیو گیم هستم.علاقه مند به یادگیری و بهتر شدن در فعالیت های جدید هستم. این وب سایت مربوط به تکلیف کارگاه کامپیوتر ترم 14021 هست.
