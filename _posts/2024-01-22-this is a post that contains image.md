@@ -1,10 +1,7 @@
 ---
 layout: post
-title: a post with images
-date: 2015-05-15 21:01:00
-description: this is what included images could look like
-tags: formatting images
-categories: sample-posts
-thumbnail: assets/img/9.jpg
+date: 2024-01-22 16:23:00
+tags: images
+thumbnail: assets/img/road.jpg
 ---
 I think a good death is like driving in a road like this till you reach the light
