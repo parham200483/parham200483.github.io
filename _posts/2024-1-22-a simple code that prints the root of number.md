@@ -4,7 +4,7 @@ title: a simple code that prints the root of number
 date: 2024-01-22 08:07:00
 description: a pso that contains code!
 tags: code
-categories: sample-posts
+categories: 
 featured: true
 ---
 
