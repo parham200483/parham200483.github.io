@@ -1,3 +1,11 @@
+---
+layout: post
+title: a code that prints hello 100 times
+date: 2024-01-22 
+description: a code that prints hello 100 times
+tags: code images
+thumbnail: assets/img/code.jpg
+---
 this code in bellow prints Hello for 100 times :
 ```c
 #include <stdio.h>
