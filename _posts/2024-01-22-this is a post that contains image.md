@@ -1,5 +1,6 @@
 ---
 layout: post
+title: this is a post that contains image
 date: 2024-01-22 
 tags: images
 thumbnail: assets/img/road.jpg
