@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-01-22 16:23:00
+date: 2024-01-22 
 tags: images
 thumbnail: assets/img/road.jpg
 ---
